@@ -2,7 +2,7 @@ const BLOG = {
   title: 'QI BLOG',
   author: 'QI',
   email: 'info@qiwangumass.com',
-  link: 'https://nobelium.vercel.app',
+  link: 'https://blog.qiwangumass.com/',
   description: 'Welcome and have a seat',
   lang: 'en-US', // ['en-US', 'zh-CN', 'zh-HK', 'zh-TW', 'ja-JP', 'es-ES']
   timezone: 'Asia/Shanghai', // Your Notion posts' date will be interpreted as this timezone. See https://en.wikipedia.org/wiki/List_of_tz_database_time_zones for all options.
@@ -17,7 +17,7 @@ const BLOG = {
   showAbout: true,
   showArchive: true,
   autoCollapsedNavBar: false, // The automatically collapsed navigation bar
-  ogImageGenerateURL: 'https://og-image-craigary.vercel.app', // The link to generate OG image, don't end with a slash
+  ogImageGenerateURL: 'https://og-image-craigary.vercel.app/**QI**%20BLOG.png?theme=dark&md=1&fontSize=100px&images=https%3A%2F%2Fassets.vercel.com%2Fimage%2Fupload%2Ffront%2Fassets%2Fdesign%2Fvercel-triangle-white.svg', // The link to generate OG image, don't end with a slash
   socialLink: '',
   seo: {
     keywords: ['Blog', 'Website', 'Notion'],
