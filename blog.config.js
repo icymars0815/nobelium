@@ -1,7 +1,7 @@
 const BLOG = {
   title: 'QI BLOG',
   author: 'QI',
-  email: 'info@qiwangumass.com',
+  email: 'qiwangumass@gmail.com',
   link: 'https://blog.qiwangumass.com/',
   description: 'Welcome and have a seat',
   lang: 'en-US', // ['en-US', 'zh-CN', 'zh-HK', 'zh-TW', 'ja-JP', 'es-ES']
