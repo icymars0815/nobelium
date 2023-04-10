@@ -1,10 +1,10 @@
 const BLOG = {
-  title: 'QI's BLOG',
+  title: 'QI BLOG',
   author: 'QI',
   email: 'info@qiwangumass.com',
   link: 'https://nobelium.vercel.app',
   description: 'Welcome and have a seat',
-  lang: 'zh-CN', // ['en-US', 'zh-CN', 'zh-HK', 'zh-TW', 'ja-JP', 'es-ES']
+  lang: 'en-US', // ['en-US', 'zh-CN', 'zh-HK', 'zh-TW', 'ja-JP', 'es-ES']
   timezone: 'Asia/Shanghai', // Your Notion posts' date will be interpreted as this timezone. See https://en.wikipedia.org/wiki/List_of_tz_database_time_zones for all options.
   appearance: 'auto', // ['light', 'dark', 'auto'],
   font: 'sans-serif', // ['sans-serif', 'serif']
